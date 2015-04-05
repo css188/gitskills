@@ -1,2 +1,2 @@
-create a new branch is easy and simple
+create a new branch is easy and simple add merge
 
